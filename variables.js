@@ -72,3 +72,5 @@ function example6() {
 example6();
 
 //Because let g inside if is block-scoped and disappears after }.
+
+//Temporal deadzone means variables are in the scope but not being declared .
